@@ -8,13 +8,13 @@ Este projeto simula um desafio enfrentado por uma gravadora que deseja lançar u
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Validar, por meio da análise de dados, um conjunto de hipóteses relacionadas ao sucesso de músicas na plataforma Spotify. O propósito é orientar a gravadora na criação de estratégias mais eficazes para alavancar o lançamento de um novo artista.
 
 ---
 
-## 📌 Hipóteses Analisadas
+## Hipóteses Analisadas
 
 1. Músicas com **BPM (batidas por minuto)** mais altos têm mais streams.
 2. Músicas populares no Spotify também apresentam bom desempenho em **outras plataformas**, como a Deezer.
@@ -24,7 +24,7 @@ Validar, por meio da análise de dados, um conjunto de hipóteses relacionadas a
 
 ---
 
-## 🔍 Metodologia
+## Metodologia
 
 - **Exploração dos dados**: tratamento, limpeza e análise exploratória.
 - **Visualizações interativas**: dashboards com foco em descobertas e tendências.
@@ -33,7 +33,7 @@ Validar, por meio da análise de dados, um conjunto de hipóteses relacionadas a
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - Python (Pandas)
 - BigQuery
