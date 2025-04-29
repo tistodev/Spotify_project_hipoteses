@@ -1,0 +1,9 @@
+[{
+  "correlacao_danceability_streams": "-0.10527194636854897",
+  "correlacao_energy_streams": "-0.026138814089164377",
+  "correlacao_valence_streams": "-0.041061252349709323",
+  "correlacao_acousticness_streams": "-0.0045107200725287792",
+  "correlacao_instrumentalness_streams": "-0.044071511876625273",
+  "correlacao_liveness_streams": "-0.049989068551382243",
+  "correlacao_speechiness_streams": "-0.11213127280023746"
+}]
