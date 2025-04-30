@@ -49,6 +49,7 @@ Validar, por meio da análise de dados, um conjunto de hipóteses relacionadas a
 
 Explore os insights no dashboard:  
 🔗 ![image](https://github.com/user-attachments/assets/cadc24c5-6f81-471e-b493-6fd181ff3c37)
+![image](https://github.com/user-attachments/assets/20b63054-5ec7-440d-aeb0-cf3f9eeb5ff6)
 
 
 
