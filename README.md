@@ -38,16 +38,19 @@ Validar, por meio da análise de dados, um conjunto de hipóteses relacionadas a
 - Python (Pandas)
 - BigQuery
 - Power Bi (Data Viz)
-- Excell
+- Excel
 - Dataset do Spotify (três tabelas)
+- Google Colab
+- GitHub
 
 ---
 
 ## 📈 Dashboard Interativo
 
 Explore os insights no dashboard:  
-🔗 
----
+🔗 ![image](https://github.com/user-attachments/assets/cadc24c5-6f81-471e-b493-6fd181ff3c37)
+
+
 
 ## 💡 Principais Descobertas
 
