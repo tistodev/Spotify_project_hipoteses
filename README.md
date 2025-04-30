@@ -52,6 +52,9 @@ Explore os insights no dashboard:
 ![image](https://github.com/user-attachments/assets/20b63054-5ec7-440d-aeb0-cf3f9eeb5ff6)
 
 
+## Wiki:
+
+https://github.com/tistodev/Spotify_project_hipoteses/wiki
 
 ## 💡 Principais Descobertas
 
