@@ -48,8 +48,10 @@ Validar, por meio da análise de dados, um conjunto de hipóteses relacionadas a
 ## 📈 Dashboard Interativo
 
 Explore os insights no dashboard:  
-🔗 ![image](https://github.com/user-attachments/assets/cadc24c5-6f81-471e-b493-6fd181ff3c37)
-![image](https://github.com/user-attachments/assets/20b63054-5ec7-440d-aeb0-cf3f9eeb5ff6)
+🔗 ![Captura de tela 2025-05-06 185018](https://github.com/user-attachments/assets/2d81142b-cb53-4ed9-9de7-7f491a12f9e9)
+![image](https://github.com/user-attachments/assets/b98b2bd8-4666-4a18-99ec-6e095eb830c8)
+
+
 
 
 ## Wiki:
