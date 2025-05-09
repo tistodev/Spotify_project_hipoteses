@@ -51,8 +51,13 @@ Explore os insights no dashboard:
 🔗 ![Captura de tela 2025-05-06 185018](https://github.com/user-attachments/assets/2d81142b-cb53-4ed9-9de7-7f491a12f9e9)
 ![image](https://github.com/user-attachments/assets/b98b2bd8-4666-4a18-99ec-6e095eb830c8)
 
+PowerBI
 
 
+
+## Apresentação:  
+
+https://docs.google.com/presentation/d/1A5IsCUoKYPsgofN3NUZ1XMKrfkp1_AbA73M6y43JEBQ/edit?usp=sharing
 
 ## Wiki:
 
