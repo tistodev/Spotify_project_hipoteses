@@ -56,6 +56,10 @@ Explore os insights no dashboard:
 
 https://docs.google.com/presentation/d/1A5IsCUoKYPsgofN3NUZ1XMKrfkp1_AbA73M6y43JEBQ/edit?usp=sharing
 
+## Video:
+
+https://www.loom.com/share/91e5b5b62dba449dafbf3897feeb004d?sid=41197bbb-3b4e-469e-85d6-86dd09cc2881
+
 ## Wiki:
 
 https://github.com/tistodev/Spotify_project_hipoteses/wiki
